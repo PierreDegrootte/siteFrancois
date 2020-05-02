@@ -1,0 +1,151 @@
+/* General
+---------------------------------------------------------------------------------------*/
+body
+ {
+  margin : 0;
+  background-color: #000000;
+}
+
+p
+{
+  margin : 0;
+  padding : 0;
+}
+
+.BoutonHautPage
+{
+  margin: 0;
+  padding-top: 2.5%;
+  text-align: center;  
+}
+
+figcaption
+{
+  color: white;
+  font-style: italic;
+  font-weight: bold;
+  padding-top: 0.5%;
+  font-size: 20px;
+}
+
+img {
+  max-width:100%;
+  height:auto;
+  display:block;
+}
+
+.paragraphe
+{
+  text-align: justify;
+  color: white;
+  padding-right: 10%;
+  padding-left: 10%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  font-size: 20px;
+  line-height: 1.5em;
+}
+
+.paragraphe0
+{
+  text-align: justify;
+  color: white;
+  padding-right: 10%;
+  padding-left: 10%;
+  padding-top: 0%;
+  padding-bottom: 0.5%;
+  font-size: 20px;
+  line-height: 1.5em;
+}
+
+.paragraphe1
+{
+  text-align: justify;
+  color: white;
+  padding-right: 10%;
+  padding-left: 10%;
+  padding-top: 2%;
+  padding-bottom: 0.5%;
+  font-size: 20px;
+  line-height: 1.5em;
+}
+
+.paragraphe2
+{
+  text-align: justify;
+  color: white;
+  padding-right: 10%;
+  padding-left: 10%;
+  padding-top: 0.5%;
+  padding-bottom: 2%;
+  font-size: 20px;
+  line-height: 1.5em;
+}
+
+.paragraphe3
+{
+  text-align: justify;
+  color: white;
+  padding-right: 10%;
+  padding-left: 10%;
+  padding-top: 0%;
+  padding-bottom: 2%;
+  font-size: 20px;
+  line-height: 1.5em;
+}
+
+h1
+{
+  color: white;
+  font-size: 40px;
+}
+
+.titreVoitureNoire
+{
+  color: white;
+  font-size: 35px;
+  padding-top: 2%;
+}
+
+hr
+{
+  border: 1px solid white;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.modelesMythiques
+{
+  padding-top: 2%;
+}
+
+.modelesPopulaires
+{
+  padding-top: 2%;
+}
+
+.accueil
+{
+  padding-top: 2%;
+}
+
+.espaceFooter
+{
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+.infoConnexion
+{
+  color: white;
+  text-align: center;
+  padding-bottom: 3%;
+  font-size: 20px;
+}
+
+table
+{
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
